@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/GaryHjy/auto-tag/compare/v1.1.0...v1.2.0) (2019-09-10)
+
+
+### Features
+
+* 添加小机器人 ([6ee12e4](https://github.com/GaryHjy/auto-tag/commit/6ee12e4))
+
 ## 1.1.0 (2019-09-10)
 
 
