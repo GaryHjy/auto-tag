@@ -12,4 +12,8 @@ script:
 - sh ./release.sh
 after_success:
 - GREN_GITHUB_TOKEN=$GITHUB_TOKEN yarn release
+notifications:
+  webhooks: https://oapi.dingtalk.com/robot/send?access_token=$DINGTALK_ROBOT_TOKEN
+# after_script:
+# - sh ./notify.sh
 cache: yarn
