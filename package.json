@@ -1,11 +1,14 @@
 {
   "name": "auto-tag",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "commit": "npx git-cz"
+    "release": "gren release --override",
+    "stdver": "standard-version -m '[skip ci] chore(release): v%s'",
+    "commit": "npx git-cz",
+    "a": "standard-version"
   },
   "repository": {
     "type": "git",
@@ -19,7 +22,8 @@
   },
   "homepage": "https://github.com/GaryHjy/auto-tag#readme",
   "devDependencies": {
-    "cz-conventional-changelog": "3.0.2"
+    "cz-conventional-changelog": "3.0.2",
+    "standard-version": "^7.0.0"
   },
   "config": {
     "commitizen": {
