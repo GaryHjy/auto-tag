@@ -22,6 +22,7 @@
   "homepage": "https://github.com/GaryHjy/auto-tag#readme",
   "devDependencies": {
     "cz-conventional-changelog": "3.0.2",
+    "github-release-notes": "^0.17.0",
     "standard-version": "^7.0.0"
   },
   "config": {
