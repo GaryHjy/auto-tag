@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.5.0](https://github.com/GaryHjy/auto-tag/compare/v1.4.0...v1.5.0) (2019-09-11)
+
+
+### Features
+
+* 添加钉钉机器人 ([a85a6ef](https://github.com/GaryHjy/auto-tag/commit/a85a6ef))
+
 ## [1.4.0](https://github.com/GaryHjy/auto-tag/compare/v1.3.1...v1.4.0) (2019-09-11)
 
 
