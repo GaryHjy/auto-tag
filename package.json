@@ -23,7 +23,7 @@
   "devDependencies": {
     "cz-conventional-changelog": "3.0.2",
     "github-release-notes": "^0.17.0",
-    "standard-version": "^7.0.0"
+    "standard-version": "^8.0.1"
   },
   "config": {
     "commitizen": {
