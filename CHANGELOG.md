@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.5.11](https://github.com/GaryHjy/auto-tag/compare/v1.5.10...v1.5.11) (2021-05-08)
+
 ### [1.5.10](https://github.com/GaryHjy/auto-tag/compare/v1.5.9...v1.5.10) (2021-05-08)
 
 ### [1.5.9](https://github.com/GaryHjy/auto-tag/compare/v1.5.8...v1.5.9) (2021-04-30)
